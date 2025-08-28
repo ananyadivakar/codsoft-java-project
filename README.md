@@ -16,7 +16,7 @@ Each project demonstrates core Java concepts like OOP, exception handling, file 
 
 ✅ **Task 2 – Student Grade Calculator**  
 - Takes marks for multiple subjects and calculates total, average, and final grade.  
-🔗 [Linkedin Post] (https://www.linkedin.com/posts/ananya-d-01860429a_codsoft-java-coding-activity-7359225555751165955-ftn3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhZQxQBqXoD0Jcfzk3_Z-1LwOtHf3-iM1U)
+🔗 [Linkedin Post](https://www.linkedin.com/posts/ananya-d-01860429a_codsoft-java-coding-activity-7359225555751165955-ftn3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhZQxQBqXoD0Jcfzk3_Z-1LwOtHf3-iM1U)
 
 
 ---
