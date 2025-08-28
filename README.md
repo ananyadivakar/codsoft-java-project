@@ -1,23 +1,47 @@
 # CodSoft Java Projects
-# CodSoft Java Projects
 
 This repository contains multiple **Java console applications** developed as part of my CodSoft internship.  
 Each project demonstrates core Java concepts like OOP, exception handling, file handling, and user interaction.
 
 ---
 
-## 🚀 Projects Included
-- **ATM Simulator** – balance, withdraw, deposit
-- **Bank Account Manager** – create account, deposit/withdraw
-- **Currency Converter** – convert between currencies
-- **Student Management System** – add/list/search students
-- **Student Grade Calculator** – compute grades
-- **Number Guessing Game** – guess the random number
+# 📂 Tasks Included  
+
+✅ **Task 1 – Number Guessing Game**  
+- A simple game where the user guesses a randomly generated number.  
+- Features: Limited attempts, feedback on guess, and score tracking.  
+🔗 [LinkedIn Post](#)  
 
 ---
 
-## 🛠️ Tech Stack
-Java • VS Code • Git/GitHub
+✅ **Task 2 – Student Grade Calculator**  
+- Takes marks for multiple subjects and calculates total, average, and final grade.  
+🔗 [LinkedIn Post](#)  
+
+---
+
+✅ **Task 3 – ATM Interface**  
+- Simulates ATM operations: deposit, withdraw, balance check.  
+- Uses classes for ATM and BankAccount.  
+🔗 [LinkedIn Post](#)  
+
+---
+
+✅ **Task 4 – Currency Converter**  
+- Converts an amount from one currency to another using real-time exchange rates.  
+🔗 [LinkedIn Post](#)  
+
+---
+
+✅ **Task 5 – Student Management System**  
+- Allows adding, searching, deleting, and displaying students.  
+- Data can be managed via console.  
+🔗 [LinkedIn Post](#)  
+
+---
+
+# 🔗 GitHub Repo Link  
+👉 [Click here to view the repository](#)
 
 ---
 
@@ -50,3 +74,16 @@ Beginner-friendly
    git add README.md
    git commit -m "Enhanced README with details"
    git push
+# 🧠 Skills Used  
+- Java (OOP, Classes, Objects)  
+- Conditional Statements & Loops  
+- Arrays & Data Handling  
+- File I/O (for Student Management)  
+- Problem Solving  
+
+---
+
+# 🚀 Thank You, CodSoft!  
+It was a great learning experience working with Java in real-world projects.  
+
+#codsoft #java #internship #project
