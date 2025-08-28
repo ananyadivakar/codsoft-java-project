@@ -1,0 +1,6 @@
+*.class
+*.dat
+*.log
+*.jar
+.DS_Store
+Thumbs.db
